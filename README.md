@@ -13,7 +13,3 @@ Implemented a PyTorch neural network to predict signed distance functions (SDFs)
 
 Due to the lack of the original assignment documentation, this repository focuses on the core architectural implementation and the training pipeline.
 
----
-
-
-**Developed for the School of Electrical and Computer Engineering, Technical University of Crete.**
